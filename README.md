@@ -3,11 +3,15 @@
 
 
 ![form validation](https://github.com/walclenia/form_validation/assets/47544994/235252aa-9111-43ee-984a-1c670a2234d5)
+<div align="center">
+  <img src="src/images/2.png" height="400">
+  <img src="src/images/3.png" height="400">
+  <img src="src/images/4.png" height="400">
+</div>
+<br>
 
+The project was built with what I learned in the DevQuest course, HTML5, CSS3 and JavaScript classes.
 
-
-
-__ENG:__ The project was built with what I learned in the DevQuest course, HTML5, CSS3 and JavaScript classes.
 <br><br>
 
 
@@ -38,10 +42,14 @@ https://walclenia.github.io/form_validation/
 
 ![form validation](https://github.com/walclenia/form_validation/assets/47544994/235252aa-9111-43ee-984a-1c670a2234d5)
 
+<div align="center">
+  <img src="src/images/2.png" height="400">
+  <img src="src/images/3.png" height="400">
+  <img src="src/images/4.png" height="400">
+</div>
 
-
-
-__PT:__ Este projeto foi construído com base nos conhecimentos adquiridos nas aulas de HTML5, CSS3 e JavaScript, do curso de frontend DevQuest.
+<br>
+Este projeto foi construído com base nos conhecimentos adquiridos nas aulas de HTML5, CSS3 e JavaScript, do curso de frontend DevQuest.
 
 
 
