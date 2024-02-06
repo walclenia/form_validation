@@ -29,6 +29,7 @@ __ENG:__ The project was built with what I learned in the DevQuest course, HTML5
 
 <br>
 If you want to see this project, just click on the link:
+https://walclenia.github.io/form_validation/
 
 <br><br>
 
@@ -62,4 +63,5 @@ __PT:__ Este projeto foi construído com base nos conhecimentos adquiridos nas a
 
 <br>
 Se quiser ver o projeto basta clicar no link:
+https://walclenia.github.io/form_validation/
 
